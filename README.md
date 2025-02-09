@@ -33,12 +33,3 @@ module.exports = {
   base: "https://api.openweathermap.org/data/2.5/",
 };
 ```
-
-
-### MADE BY
-- Ambar 
-- Ankush 
-- Siddhi
-- Ruthvik
-- Alakshendra 
-- Rohit
